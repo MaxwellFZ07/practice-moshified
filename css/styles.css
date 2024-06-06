@@ -203,6 +203,10 @@ a {
     background: var(--color-accent);
 }
 
+.icon-container--chevron {
+    background: #c6cbcc;
+}
+
 /* Buttons */
 
 .btn {
@@ -555,3 +559,17 @@ a {
         margin: 0 2rem;
     }
 }
+
+/* Collapsibles */
+
+.collapsible__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.collapsible__heading {
+    margin-top: 0;
+    font-size: 3rem;
+}
+
+

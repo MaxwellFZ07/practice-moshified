@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 51">
+  <symbol id="chevron" viewBox="0 0 51 51">
+    <circle cx="25.5" cy="25.5" r="25.5"></circle>
+    <rect x="20.4" y="24.9" width="1.6" height="15.24" rx="0.8" transform="rotate(-45 20.4 24.9)"></rect>
+    <rect x="29.3" y="24.9" width="1.6" height="15.24" rx="0.8" transform="rotate(45 29.3 24.9)"></rect>
+  </symbol>
+</svg>
